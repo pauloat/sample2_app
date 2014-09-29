@@ -17,3 +17,5 @@
 
 *.swo
 *.swp
+
+/spring/*.pid
